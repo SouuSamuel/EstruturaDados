@@ -1,3 +1,5 @@
+//Samuel Jesus Gonzaga do Nascimento - 0031432612026
+//Samuel Henrique Lara - 0031432612038
 import java.util.Scanner;
 import java.util.Stack;
 
